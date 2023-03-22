@@ -1,2 +1,2 @@
 # the-history-matters
-hisry.com
+history.com
